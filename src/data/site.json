@@ -1,0 +1,51 @@
+{
+  "name": "seankelleher.ie",
+  "description": "Seán Kelleher's personal site.",
+  "url": "https://seankelleher.ie",
+  "author": {
+    "name": "Seán Kelleher",
+    "twitterHandle": "@smortimerk"
+  },
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "Projects",
+      "url": "/projects",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "GitHub",
+      "url": "https://github.com/eZanmoto",
+      "external": true
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/smortimerk",
+      "external": true
+    },
+    {
+      "text": "Reddit",
+      "url": "https://reddit.com/u/eZanmoto",
+      "external": true
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true
+}
