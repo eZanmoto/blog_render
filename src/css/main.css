@@ -25,10 +25,29 @@
   max-width: 48.75rem;
   margin-left: auto;
   margin-right: auto;
+  text-align: justify;
 }
 
-code,
-kbd {
+*+h2 {
+    margin-top: 3rem;
+}
+
+code {
+    border-radius: 2px;
+}
+
+pre code {
     margin: 0;
     padding: 0;
+}
+
+h2 code {
+    font-size: inherit;
+}
+
+ul {
+    margin-top: 2rem;
+    padding-left: 1.5rem;
+    list-style-type: inherit;
+    list-style-position: inherit;
 }
